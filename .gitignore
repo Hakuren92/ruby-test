@@ -214,3 +214,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+Okvista/config/database.yml
+Okvista/config/secrets.yml
+Okvista/config/secrets.yml
